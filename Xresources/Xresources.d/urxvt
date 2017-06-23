@@ -53,7 +53,7 @@
   /* Set a icon file for URxvt */
   ! URxvt*iconFile: ~/terminal.svg
   /* Create the window with the specified X window gemoetry (default 80x24) */
-  URxvt*gemetry: 120x44
+  URxvt*geometry: 120x44
   /* Reverse between foreground and background colors */
   URxvt*reverseVideo: False
   /* To support true transparency */
