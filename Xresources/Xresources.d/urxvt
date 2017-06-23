@@ -109,7 +109,7 @@
   /* Trun on/off ISO 14755 5.2 mode (default enabled) */
   URxvt*iso14755_52: False
 !!! }}}
-URxvt.perl-ext-common: default,matcher
+URxvt.perl-ext-common: default,matcher,selection-to-clipboard
 URxvt.urlLauncher: firefox
 URxvt.matcher.button: 1
 
