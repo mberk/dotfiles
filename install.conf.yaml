@@ -20,4 +20,7 @@
     ~/.Xresources:
         force: true
         path: Xresources/Xresources
+    ~/.Xresources.d:
+        force: true
+        path: Xresources/Xresources.d/
 
