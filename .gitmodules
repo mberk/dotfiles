@@ -1,3 +1,6 @@
 [submodule "dotbot"]
 	path = dotbot
 	url = https://github.com/anishathalye/dotbot
+[submodule "Xresources/Xresources.d/xcolors"]
+	path = Xresources/Xresources.d/xcolors
+	url = https://github.com/tlatsas/xcolors
