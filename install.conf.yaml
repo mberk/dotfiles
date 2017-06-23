@@ -17,4 +17,7 @@
     ~/.config/autostart/fixed-dropbox.desktop:
         force: true
         path: config/autostart/fixed-dropbox.desktop
+    ~/.Xresources:
+        force: true
+        path: Xresources/Xresources
 
