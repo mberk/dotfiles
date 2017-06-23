@@ -90,7 +90,7 @@
   URxvt*skipScroll: True
 
   /* The color of the border around the text area and between the scrollbar and the text */
-  URxvt*borderColor: #000000
+  URxvt*borderColor: #2b2b2b
   /* Set MWM hints to request a borderless window */
   URxvt*borderLess: False
   /* Internal border of number pixels */
