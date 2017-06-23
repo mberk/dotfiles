@@ -1,0 +1,20 @@
+- defaults:
+    link:
+        relink: true
+
+- clean: ['~']
+
+- link:
+    ~/.tmux.conf:
+        force: true
+        path: tmux/tmux.conf
+    ~/.vimrc:
+        force: true
+        path: vim/vimrc
+    ~/.alacritty.yml:
+        force: true
+        path: alacritty/alacritty.yml
+    ~/.config/autostart/fixed-dropbox.desktop:
+        force: true
+        path: config/autostart/fixed-dropbox.desktop
+
