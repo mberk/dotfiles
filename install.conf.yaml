@@ -5,6 +5,9 @@
 - clean: ['~']
 
 - link:
+    ~/.bashrc:
+        force: true
+        path: bash/bashrc
     ~/.tmux.conf:
         force: true
         path: tmux/tmux.conf
