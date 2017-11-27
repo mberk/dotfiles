@@ -1,6 +1,7 @@
 set nu
 set expandtab
 set tabstop=4
+filetype plugin indent on
 
 " Go to the last cursor location when a file is opened, unless this is a
 " git commit (in which case it's annoying)

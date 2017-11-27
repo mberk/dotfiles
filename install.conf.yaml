@@ -14,6 +14,9 @@
     ~/.vimrc:
         force: true
         path: vim/vimrc
+    ~/.vim/ftplugin:
+        force: true
+        path: vim/ftplugin
     ~/.alacritty.yml:
         force: true
         path: alacritty/alacritty.yml
