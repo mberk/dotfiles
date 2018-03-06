@@ -59,7 +59,7 @@
   /* To support true transparency */
   URxvt*depth: 32
   /* Set background with transparency */
-  URxvt*background: [90]#2b2b2b
+  URxvt*background: #2b2b2b
   /* Fade the text by the given percentage when focus is lost */
   URxvt*fadeing: 30
   /* Use visual bell on receipt of a bell character */
