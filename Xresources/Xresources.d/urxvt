@@ -51,7 +51,7 @@
 
 !!! Visual {{{
   /* Set a icon file for URxvt */
-  ! URxvt*iconFile: ~/terminal.svg
+  URxvt*iconFile: /usr/share/icons/Humanity/apps/128/utilities-terminal.svg
   /* Create the window with the specified X window gemoetry (default 80x24) */
   URxvt*geometry: 120x44
   /* Reverse between foreground and background colors */
