@@ -29,4 +29,7 @@
     ~/.Xresources.d:
         force: true
         path: Xresources/Xresources.d/
+    ~/.gitconfig:
+        force: true
+        path: git/gitconfig
 
