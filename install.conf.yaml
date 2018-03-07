@@ -23,6 +23,9 @@
     ~/.config/autostart/fixed-dropbox.desktop:
         force: true
         path: config/autostart/fixed-dropbox.desktop
+    ~/.config/autostart/xrdb.desktop:
+        force: true
+        path: config/autostart/xrdb.desktop
     ~/.Xresources:
         force: true
         path: Xresources/Xresources
@@ -32,4 +35,3 @@
     ~/.gitconfig:
         force: true
         path: git/gitconfig
-
