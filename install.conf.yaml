@@ -3,7 +3,8 @@
         relink: true
 
 - clean: ['~']
-
+- shell:
+    - mkdir -p ~/.config/git
 - link:
     ~/.bashrc:
         force: true
@@ -35,3 +36,6 @@
     ~/.gitconfig:
         force: true
         path: git/gitconfig
+    ~/.config/git/ignore:
+        force: true
+        path: git/gitignore
