@@ -5,6 +5,7 @@
 - clean: ['~']
 - shell:
     - mkdir -p ~/.config/git
+    - mkdir -p ~/.vim/after
 - link:
     ~/.bashrc:
         force: true
@@ -15,7 +16,7 @@
     ~/.vimrc:
         force: true
         path: vim/vimrc
-    ~/.vim/ftplugin:
+    ~/.vim/after/ftplugin:
         force: true
         path: vim/ftplugin
     ~/.alacritty.yml:
