@@ -1,3 +1,5 @@
+Xft.dpi: 250
+
 !!! Theme {{{
   #include ".Xresources.d/xcolors/themes/gjm"
 !!! }}}
