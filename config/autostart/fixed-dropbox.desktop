@@ -9,3 +9,4 @@ Type=Application
 Icon=dropbox
 Categories=Network;FileTransfer;
 StartupNotify=false
+Hidden=true
