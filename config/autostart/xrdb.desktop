@@ -2,7 +2,7 @@
 Name=Load .Xresources
 GenericName=Load .Xresources
 Comment=Ensure .Xresources gets loaded in Wayland
-Exec=/bin/bash -c "xrdb -merge $HOME/.Xresources"
+Exec=/bin/bash -c "sleep 1 ; xrdb -merge $HOME/.Xresources"
 Terminal=false
 Type=Application
 Categories=X11;Legacy;Startup
