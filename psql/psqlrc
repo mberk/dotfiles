@@ -1,0 +1,10 @@
+-- Report how long it takes to run each query
+\timing
+
+-- Unlimited history
+\set HISTSIZE -1
+
+-- Ignore duplicates and lines beginning with a space
+\set HISTCONTROL ignoreboth
+
+SET tcp_keepalives_idle = 60
