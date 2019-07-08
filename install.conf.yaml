@@ -40,6 +40,6 @@
     ~/.config/git/ignore:
         force: true
         path: git/gitignore
-    ~/.pqslrc:
+    ~/.psqlrc:
         force: true
         path: psql/psqlrc
