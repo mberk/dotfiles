@@ -1,5 +1,6 @@
 colorscheme default
 
+set showcmd
 set nu
 set expandtab
 set tabstop=4
