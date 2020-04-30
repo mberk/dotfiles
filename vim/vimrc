@@ -13,3 +13,7 @@ au BufReadPost *
         \ execute("normal `\"") |
     \ endif
 
+inoremap jk <ESC>
+let mapleader=" "
+set list
+set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<
