@@ -44,3 +44,6 @@
     ~/.psqlrc:
         force: true
         path: psql/psqlrc
+    ~/.local/share/applications/rxvt-unicode.desktop:
+        force: true
+        path: local/share/applications/rxvt-unicode.desktop
