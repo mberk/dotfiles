@@ -110,6 +110,6 @@
   URxvt*iso14755_52: False
 !!! }}}
 URxvt.perl-ext-common: default,matcher,selection-to-clipboard
-URxvt.urlLauncher: firefox
+URxvt.url-launcher: /usr/bin/xdg-open
 URxvt.matcher.button: 1
 
